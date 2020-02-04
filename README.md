@@ -19,11 +19,17 @@ pandas
 
 ### Files
 ___
-* README
-* 
+* README.md 
+* blog_post.md -- blog post about the results of the analysis for the non-technical audience
+* blog_stack_overflow.ipynb -- jupyter notebook containing the analysis of the data
+* blog_stack_overflow.html -- html version of the jupyter notebook
+* female_country.png -- bar graph representing which countries the women live in
+* female_race.png -- bar graph representing which race women identify with 
+* photography-of-a-woman-using-laptop-1024403.jpg -- picture for the blog post
 
 ### Results
 ___
+The results are displayed and discussed in the blog_post.md 
 
 ### Licensing
 ___
