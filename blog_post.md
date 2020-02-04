@@ -32,5 +32,6 @@ Another factor that might play a role in education. Are only highly educated wom
 
 ## Conclusion
 
+This data set is not optimal for answering the questions I had in mind. But finding a way to close the gender gap is not easy, otherwise it wouldn't be such an issue. The more information we have about how women make it into tech, the better we can understand what is missing, and at what stage in the education of young women. 
 
 
