@@ -22,7 +22,9 @@ First question I asked is "do countries play a role?"
 
 According to the analysis of the Stack Overflow data, great majority of the females are from the United States, followed by India, Canada, Germany and Poland. First I thought this might be due to population size, but upon closer examination of population (USA: 329mil, UK: 63mil India: 1.3bil, Canada: 37mil, Germany: 83mil and Poland around 40mil), there is no direct correlation. Does this mean that the USA has the highest percentage of women in tech? It's hard to make that conclusion based on this analysis alone. What we need to take into consideration is also the ratio of men and women in each country, and which percentage of total female population is represented in this survey. Additionally, the question in the survey asked for the country of residence, which doesn't account for immigration factor.
 
-![](https://github.com/milbajagic/StackOverflow_2017_survey_analysis/blob/master/famale_race.png)
+
+![](https://github.com/milbajagic/StackOverflow_2017_survey_analysis/blob/master/female_race.png)
+
 
 If we take a look at the race distribution among the females represented in the survey, we see that majoriy is white/european. This is in agreement with what we saw in the analysis of countries, since most females in this data set come from USA and Europe. 
 
