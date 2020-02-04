@@ -27,4 +27,4 @@ ___
 
 ### Licensing
 ___
-Licensing for the data and other descriptive information at the Kaggle link available .
+Licensing for the data and other descriptive information at the [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
