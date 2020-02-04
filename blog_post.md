@@ -4,7 +4,7 @@ I am a women, and I do not work in technology... yet. I am a scientist by nature
 
 Almost 4 years ago, I got involved in a few non-profit organisations here in Hamburg whos main aim is closing this gender gap in technology. I identify with this issue, mainly because technology has taken off and has infiltrated every area of our life. It is unfair to leave half of population out of this process.
 
-![](https://github.com/milbajagic/StackOverflow_2017_survey_analysis/photography-of-a-woman-using-laptop-1024403.jpeg)
+![](https://github.com/milbajagic/StackOverflow_2017_survey_analysis/blob/master/photography-of-a-woman-using-laptop-1024403.jpg)
 
 ## Seeing the gender gap in the Stack Overflow data
 
