@@ -29,7 +29,7 @@ ___
 
 ### Results
 ___
-The results are displayed and discussed in the blog_post.md 
+The results are displayed and discussed in the [blog_post](https://medium.com/@milbajagic/gender-gap-in-it-b08ef357e2fe).
 
 ### Licensing
 ___
