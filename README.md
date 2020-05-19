@@ -6,7 +6,7 @@ The purpose of this project is to use data collected by the Stack Overflow surve
 
 I would like to use this data to confirm the existance of the problem and see if there are any "hidden patterns" among the female population represented here (regarding the race, education or country of particants).
 
-This project is part of the requirements for Udacity Data Scientist Nanodegree, and a way to practice and demonstrate fundamental data science skills and the data science process.
+This project is part of the requirements for [Udacity](https://www.udacity.com/) Data Scientist Nanodegree, and a way to practice and demonstrate fundamental data science skills and the data science process.
 
 
 ### Libraries
